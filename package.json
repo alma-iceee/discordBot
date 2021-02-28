@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alma-iceee/discordBot.git"
+  },
+  "author": "alma-iceee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alma-iceee/discordBot/issues"
+  },
+  "homepage": "https://github.com/alma-iceee/discordBot#readme"
+}
